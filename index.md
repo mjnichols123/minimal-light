@@ -8,7 +8,7 @@ I am an Applied Data Science Student ...
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
+- **Data Modeling:** creating compelling visual representations of data using tools like RStudio, Tableau, or Microsoft Power BI.
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
